@@ -1,5 +1,7 @@
 # livro-texto
 
+![terrified](https://user-images.githubusercontent.com/128937668/235284882-fdf898eb-c886-4cb0-a8ea-91b1741f6ac2.gif)
+
 ## Noções de lógica
 
 ## Proposição
